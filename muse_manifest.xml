@@ -1,0 +1,98 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="My3Dshoes.ru" resolutions="1x" timestamp="1536080257634">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="494142978" ref="index"/>
+    <file name="iefonts_index.css" crc="393798877" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="340535759" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="310584261" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
+    <file name="webpro.js" crc="4059564322" ref="index"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index"/>
+    <file name="form_check.php" crc="4020933626" ref="index"/>
+    <file name="form_throttle.php" crc="4259590256" ref="index"/>
+    <file name="form_process.php" crc="37464564" ref="index"/>
+    <file name="form-u5778.php" crc="3818234156" ref="index"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="ноги1.jpg" crc="3913954809" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ihkf34mjxpo.jpg" crc="206674839" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="кирилл аксенов 3.jpg" crc="4101783002" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1dea53h9nqc.jpg" crc="56799950" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="александр шавыкин 2.jpg" crc="427110065" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="елена постникова 4.jpg" crc="141132938" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ноги2.jpg" crc="4293343684" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="testimonals_pattern.png" crc="433332405" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="image8.jpg" crc="4163785272" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="image4.jpg" crc="55878189" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="image3-crop-u2002.jpg" crc="397524163" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="image9.jpg" crc="454927146" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="image8-crop-u1853.jpg" crc="188283887" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="image4185x105.jpg" crc="311253612" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="image3-crop-u2008.jpg" crc="4267144314" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="image9-crop-u2035.jpg" crc="441355718" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="image6.jpg" crc="4244455030" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="maxresdefault.jpg" crc="327992448" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="noce-practice-tests-1500x1000.jpg" crc="106709101" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="menu1-u963.png" crc="267805127" ref="index"/>
+    <file name="menu1-u963-r.png" crc="163827895" ref="index"/>
+    <file name="menu2-u963-a.png" crc="352655632" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4123802631" seo="true" mt="1536080066778" redirect="true"/>
+</manifest>
